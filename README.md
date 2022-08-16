@@ -6,6 +6,6 @@
 
 ### Para probar, se puede usar Thunder Client o Postman  importando el archivo: ``` collection_deno-sample.json ```
 
-* Luego de importar hay dos endpoints: 
-  -> GET llamado `getColores` que trae una lista de colores almacenados en LocalStorage
+* Luego de importar hay dos endpoints: <br>
+  -> GET llamado `getColores` que trae una lista de colores almacenados en LocalStorage <br>
   -> POST llamado `postColor` donde se le pasa por body un color para guardar en localStorage.
